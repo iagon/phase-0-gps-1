@@ -1,6 +1,6 @@
 #Showing off
 
-This is how to make **bold** text
+**This is how to bold text**
 
 This is how to *italicize* text
 
